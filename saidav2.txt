@@ -1,0 +1,1600 @@
+android,android,1.0
+android,app,0.6251374058426562
+android,bargain,0.086036427060884
+android,battery,0.2839586154137988
+android,battery life,0.27672809754687006
+android,big,0.17012434314053768
+android,camera,0.33296284465820564
+android,camera quality,0.2722284262987571
+android,case,0.16964040998979507
+android,charger,0.29813720312191866
+android,curved screen,0.35027439283926187
+android,customer service,0.20153445148043683
+android,design,0.19321422695809884
+android,device,0.3857504031609177
+android,dimension,0.1377977090060364
+android,display,0.2909691807665315
+android,expandable storage option,0.1976171636778234
+android,expensive,0.09901609413694529
+android,extra storage,0.17397876193281867
+android,fast,0.21847335584562566
+android,iphone,0.7459706031235654
+android,lightweight,0.14291188905970376
+android,memory,0.2493419446002733
+android,operation system,0.1414693412928033
+android,performance,0.09521252110615155
+android,phone,0.472653137771544
+android,photo,0.1687159369081233
+android,picture,0.1775551333716845
+android,price,0.14773705246547375
+android,processor,0.31146920804556644
+android,removable battery,0.24772798338978058
+android,screen,0.4444396656921845
+android,screen clarity,0.31387809707141356
+android,size,0.14895977467409002
+android,smartphone,0.6411365608471417
+android,software,0.4271792047841514
+android,speed,0.2096621237280003
+android,storage,0.1603058749309196
+android,value,0.07897580308636108
+android,waterproof,0.1944116721584472
+app,android,0.6251374432325495
+app,app,1.0
+app,bargain,0.11375743411572001
+app,battery,0.2251217696842472
+app,battery life,0.24169493535128875
+app,big,0.2215650565820764
+app,camera,0.316287859656864
+app,camera quality,0.28250244221459686
+app,case,0.249654956522449
+app,charger,0.2086092771603439
+app,curved screen,0.2904771353705488
+app,customer service,0.3442499766994315
+app,design,0.2537628332130562
+app,device,0.4633796833788458
+app,dimension,0.09511315038762881
+app,display,0.3040416678140966
+app,expandable storage option,0.283796555878099
+app,expensive,0.20826596221502205
+app,extra storage,0.2730520926493465
+app,fast,0.24979590058893966
+app,iphone,0.5994630901065789
+app,lightweight,0.17190327715688783
+app,memory,0.19800787013943424
+app,operation system,0.2767901718090394
+app,performance,0.11097090289717547
+app,phone,0.43316465423261824
+app,photo,0.24084063094383693
+app,picture,0.2187874264877723
+app,price,0.16960206881314385
+app,processor,0.2703686988483316
+app,removable battery,0.2031188583408926
+app,screen,0.41711506965873485
+app,screen clarity,0.3263354894933513
+app,size,0.15318609025245195
+app,smartphone,0.6140387713895188
+app,software,0.4931358785248142
+app,speed,0.19128174889426927
+app,storage,0.22119882001973107
+app,value,0.16585263435971026
+app,waterproof,0.1285941384127847
+bargain,android,0.08603643269597712
+bargain,app,0.11375743411572001
+bargain,bargain,1.0
+bargain,battery,0.16923262254406127
+bargain,battery life,0.2211250951004942
+bargain,big,0.3080505170882462
+bargain,camera,0.20474268406684826
+bargain,camera quality,0.29962808434209715
+bargain,case,0.2931231400833976
+bargain,charger,0.16794372805376787
+bargain,curved screen,0.07966339560449917
+bargain,customer service,0.29367665539410925
+bargain,design,0.10541733482129977
+bargain,device,0.09049275042469745
+bargain,dimension,0.09291588851268684
+bargain,display,0.17428194409693504
+bargain,expandable storage option,0.23564331239667136
+bargain,expensive,0.5257168041587051
+bargain,extra storage,0.3165676360915454
+bargain,fast,0.2866977944159555
+bargain,iphone,0.14809317496404265
+bargain,lightweight,0.1570692490415099
+bargain,memory,0.12868148073923857
+bargain,operation system,0.1274014317799614
+bargain,performance,0.12266971139445298
+bargain,phone,0.20408652216943188
+bargain,photo,0.12622374337885572
+bargain,picture,0.1655174814066411
+bargain,price,0.6137728780756148
+bargain,processor,0.1374795604126843
+bargain,removable battery,0.13094134060574888
+bargain,screen,0.08079153941816582
+bargain,screen clarity,0.17995519818743055
+bargain,size,0.1656647766362013
+bargain,smartphone,0.17764356811113696
+bargain,software,0.14181865663673793
+bargain,speed,0.1368515986391945
+bargain,storage,0.20569223366857334
+bargain,value,0.3962735556763743
+bargain,waterproof,0.15675318234220267
+battery,android,0.2839586154137988
+battery,app,0.2251217696842472
+battery,bargain,0.16923262254406127
+battery,battery,1.0
+battery,battery life,0.87672983529272
+battery,big,0.16282410369037806
+battery,camera,0.48608072525292384
+battery,camera quality,0.5007661091860532
+battery,case,0.3671159356223296
+battery,charger,0.8197756333715684
+battery,curved screen,0.30837821268837456
+battery,customer service,0.28241397041394917
+battery,design,0.22870821242116302
+battery,device,0.4717700976782081
+battery,dimension,0.185044026428476
+battery,display,0.34552188855916804
+battery,expandable storage option,0.43101178490525666
+battery,expensive,0.317301462809354
+battery,extra storage,0.411374304011473
+battery,fast,0.27397126982909104
+battery,iphone,0.36590516794334416
+battery,lightweight,0.3048445168522527
+battery,memory,0.37506587839690886
+battery,operation system,0.40173610083221006
+battery,performance,0.3022327426547754
+battery,phone,0.4358402428228826
+battery,photo,0.17274759607879747
+battery,picture,0.18699701613421307
+battery,price,0.3009535158804002
+battery,processor,0.33482659856011315
+battery,removable battery,0.8545773862652898
+battery,screen,0.3742768458955992
+battery,screen clarity,0.33300988087062616
+battery,size,0.2545110222634086
+battery,smartphone,0.36770709186904116
+battery,software,0.23664094815703426
+battery,speed,0.33837221980933485
+battery,storage,0.3565805890793411
+battery,value,0.2586705580702339
+battery,waterproof,0.36811770418108364
+battery life,android,0.27672809754687006
+battery life,app,0.24169493535128875
+battery life,bargain,0.2211250951004942
+battery life,battery,0.8767299906775204
+battery life,battery life,1.0
+battery life,big,0.29480978320833096
+battery life,camera,0.4981817552377992
+battery life,camera quality,0.565753152906874
+battery life,case,0.4349828569460963
+battery life,charger,0.6825839394201838
+battery life,curved screen,0.34295375808326095
+battery life,customer service,0.35949606385703514
+battery life,design,0.3321077221584198
+battery life,device,0.4478451671959687
+battery life,dimension,0.29418122435463795
+battery life,display,0.3534158638593568
+battery life,expandable storage option,0.4167453179684307
+battery life,expensive,0.3736567086672576
+battery life,extra storage,0.436491889403855
+battery life,fast,0.3944427729771907
+battery life,iphone,0.36432587154424567
+battery life,lightweight,0.2791041459850336
+battery life,memory,0.4726203907600689
+battery life,operation system,0.45513680296077125
+battery life,performance,0.3979728383888024
+battery life,phone,0.4352424646531781
+battery life,photo,0.23783903058916153
+battery life,picture,0.3291274297865278
+battery life,price,0.32599280184417423
+battery life,processor,0.2859129443574309
+battery life,removable battery,0.7378680627253589
+battery life,screen,0.4181491684075431
+battery life,screen clarity,0.43195050656816436
+battery life,size,0.2889814176827801
+battery life,smartphone,0.3528337347520236
+battery life,software,0.25846502267256344
+battery life,speed,0.3894272919190662
+battery life,storage,0.35857297527127135
+battery life,value,0.347952948682116
+battery life,waterproof,0.3370573576802774
+big,android,0.17012435457977076
+big,app,0.22156503320992926
+big,bargain,0.3080505170882462
+big,battery,0.16282409379798363
+big,battery life,0.29480978320833096
+big,big,1.0
+big,camera,0.3058058728359995
+big,camera quality,0.366221868914642
+big,case,0.31253034904210697
+big,charger,0.12989695505073662
+big,curved screen,0.31398889783094946
+big,customer service,0.26459420410425843
+big,design,0.25938048182036466
+big,device,0.16387449653983793
+big,dimension,0.21053362619214075
+big,display,0.23215223568218057
+big,expandable storage option,0.2885466166756199
+big,expensive,0.4015217863836464
+big,extra storage,0.418425495335383
+big,fast,0.39229271696779144
+big,iphone,0.17879795771284826
+big,lightweight,0.1851572573925096
+big,memory,0.2085928667477436
+big,operation system,0.2437826081557871
+big,performance,0.26508985049182676
+big,phone,0.2532428118590783
+big,photo,0.3269711374109666
+big,picture,0.4769977922222003
+big,price,0.27112833190970237
+big,processor,0.1293144332290872
+big,removable battery,0.17738635696138755
+big,screen,0.2903460122728039
+big,screen clarity,0.25976652537867395
+big,size,0.44366750821201234
+big,smartphone,0.20323505514910647
+big,software,0.23022994991874024
+big,speed,0.26687864100395486
+big,storage,0.27711974860310373
+big,value,0.25950487527272253
+big,waterproof,0.1403593922827295
+camera,android,0.3329628084575773
+camera,app,0.316287859656864
+camera,bargain,0.20474268406684826
+camera,battery,0.48608072525292384
+camera,battery life,0.4981817552377992
+camera,big,0.3058058728359995
+camera,camera,1.0
+camera,camera quality,0.8438203082998055
+camera,case,0.326250663761065
+camera,charger,0.45479876083617615
+camera,curved screen,0.48243712023347246
+camera,customer service,0.2248819745826261
+camera,design,0.27566342176219283
+camera,device,0.45725090429909504
+camera,dimension,0.22217034852013912
+camera,display,0.4342268615056917
+camera,expandable storage option,0.3618366226447994
+camera,expensive,0.34096144593441335
+camera,extra storage,0.3617012686771499
+camera,fast,0.3273611527531845
+camera,iphone,0.4052707883552051
+camera,lightweight,0.27920461729615664
+camera,memory,0.38575472651212483
+camera,operation system,0.35766449609397916
+camera,performance,0.27324834520348434
+camera,phone,0.47475358946289486
+camera,photo,0.5354347976338354
+camera,picture,0.5453894628344783
+camera,price,0.2599389705358153
+camera,processor,0.3049375830110916
+camera,removable battery,0.46566055484182234
+camera,screen,0.5675233075701827
+camera,screen clarity,0.5314075958824812
+camera,size,0.2884348902023771
+camera,smartphone,0.42767724256743567
+camera,software,0.33936253499251906
+camera,speed,0.36152864303820537
+camera,storage,0.29151654853684106
+camera,value,0.1884072233081994
+camera,waterproof,0.39653997645914496
+camera quality,android,0.2722284030967583
+camera quality,app,0.28250244221459686
+camera quality,bargain,0.29962808434209715
+camera quality,battery,0.5007661091860532
+camera quality,battery life,0.565753152906874
+camera quality,big,0.366221868914642
+camera quality,camera,0.8438203082998055
+camera quality,camera quality,1.0
+camera quality,case,0.36705977100382875
+camera quality,charger,0.4211270394720756
+camera quality,curved screen,0.479095565686735
+camera quality,customer service,0.44700633804663714
+camera quality,design,0.44352613711137323
+camera quality,device,0.4249014440154207
+camera quality,dimension,0.2992748279283688
+camera quality,display,0.46265684783001376
+camera quality,expandable storage option,0.42296829848826967
+camera quality,expensive,0.4861200123532596
+camera quality,extra storage,0.4579601359373944
+camera quality,fast,0.43357793434617603
+camera quality,iphone,0.37654761888545246
+camera quality,lightweight,0.34991139774540786
+camera quality,memory,0.3840940587694106
+camera quality,operation system,0.42051065502427043
+camera quality,performance,0.46484808037239456
+camera quality,phone,0.44242413040252077
+camera quality,photo,0.4940505245088886
+camera quality,picture,0.57013173686374
+camera quality,price,0.4083403653911154
+camera quality,processor,0.2979614018613525
+camera quality,removable battery,0.4768551571572949
+camera quality,screen,0.5452840189007858
+camera quality,screen clarity,0.618252643792708
+camera quality,size,0.3941978990337089
+camera quality,smartphone,0.3629856944148752
+camera quality,software,0.39866011920236155
+camera quality,speed,0.43391545690949973
+camera quality,storage,0.36741039498663663
+camera quality,value,0.376846988342089
+camera quality,waterproof,0.43423458179200874
+case,android,0.16964040998979507
+case,app,0.249654956522449
+case,bargain,0.29312311159341564
+case,battery,0.3671159356223296
+case,battery life,0.4349828569460963
+case,big,0.31253034904210697
+case,camera,0.32625068663901985
+case,camera quality,0.36705977100382875
+case,case,1.0
+case,charger,0.2995931599024292
+case,curved screen,0.3125731753699886
+case,customer service,0.2745607300943806
+case,design,0.3079344819133646
+case,device,0.35842509560907565
+case,dimension,0.24582519298904776
+case,display,0.2851676221687494
+case,expandable storage option,0.42300506136331223
+case,expensive,0.31260667679192605
+case,extra storage,0.38319973284762143
+case,fast,0.1997933613585947
+case,iphone,0.2803955383469841
+case,lightweight,0.2326577366987632
+case,memory,0.3210788975082694
+case,operation system,0.40369196408603375
+case,performance,0.21354978917833936
+case,phone,0.36299732348514807
+case,photo,0.20668337820715446
+case,picture,0.30648624237714206
+case,price,0.3159116851225548
+case,processor,0.22375790441715798
+case,removable battery,0.3930990836714889
+case,screen,0.3001132446776503
+case,screen clarity,0.32812942682701635
+case,size,0.3096069606004592
+case,smartphone,0.2503218215918637
+case,software,0.23860124384272496
+case,speed,0.18104770417092575
+case,storage,0.3306295087565245
+case,value,0.3573349232849633
+case,waterproof,0.2529308711351619
+charger,android,0.29813720312191866
+charger,app,0.20860925935137634
+charger,bargain,0.16794372805376787
+charger,battery,0.8197756333715684
+charger,battery life,0.6825838966285824
+charger,big,0.1298969332565123
+charger,camera,0.45479876083617615
+charger,camera quality,0.4211270394720756
+charger,case,0.2995931599024292
+charger,charger,1.0
+charger,curved screen,0.2791749764318364
+charger,customer service,0.20518649757191423
+charger,design,0.20721847889878411
+charger,device,0.39739881103650354
+charger,dimension,0.11150704151723739
+charger,display,0.2304533172728417
+charger,expandable storage option,0.34775035759920264
+charger,expensive,0.25744653483096097
+charger,extra storage,0.3055897072031421
+charger,fast,0.24840716139762395
+charger,iphone,0.4622991299401023
+charger,lightweight,0.29255584060984496
+charger,memory,0.24533440809152465
+charger,operation system,0.2642596083664645
+charger,performance,0.14716212822295713
+charger,phone,0.4178474509537859
+charger,photo,0.16942629791720962
+charger,picture,0.14974351148504716
+charger,price,0.27089405410685696
+charger,processor,0.26298608982991734
+charger,removable battery,0.7217078955175683
+charger,screen,0.29795934868390916
+charger,screen clarity,0.22886165331681835
+charger,size,0.15570061586105502
+charger,smartphone,0.3520793543868725
+charger,software,0.2087559856657393
+charger,speed,0.2862702605241529
+charger,storage,0.2496733157046163
+charger,value,0.15486741894832143
+charger,waterproof,0.3556289418324637
+curved screen,android,0.35027439283926187
+curved screen,app,0.2904771600260584
+curved screen,bargain,0.07966339560449917
+curved screen,battery,0.30837821268837456
+curved screen,battery life,0.3429537284619835
+curved screen,big,0.31398889783094946
+curved screen,camera,0.48243712023347246
+curved screen,camera quality,0.479095565686735
+curved screen,case,0.3125731753699886
+curved screen,charger,0.2791749764318364
+curved screen,curved screen,1.0
+curved screen,customer service,0.18988403053075326
+curved screen,design,0.4126369389896223
+curved screen,device,0.484070941596777
+curved screen,dimension,0.4281924217417017
+curved screen,display,0.6013812341027439
+curved screen,expandable storage option,0.49403130827056835
+curved screen,expensive,0.2392611117229595
+curved screen,extra storage,0.40057067373066163
+curved screen,fast,0.2961198017135331
+curved screen,iphone,0.3339787529994592
+curved screen,lightweight,0.3449112896063087
+curved screen,memory,0.31999479832248845
+curved screen,operation system,0.3441469845890393
+curved screen,performance,0.2370346157716595
+curved screen,phone,0.3539514755563628
+curved screen,photo,0.27478430225783995
+curved screen,picture,0.45394446664848104
+curved screen,price,0.19570939729213777
+curved screen,processor,0.31346580355402753
+curved screen,removable battery,0.4677913013172262
+curved screen,screen,0.801982614418605
+curved screen,screen clarity,0.661881723815721
+curved screen,size,0.40290126014697325
+curved screen,smartphone,0.38345969978855654
+curved screen,software,0.2528073508505927
+curved screen,speed,0.3181880023270209
+curved screen,storage,0.33870763993820574
+curved screen,value,0.17166763123004483
+curved screen,waterproof,0.32259387926899746
+customer service,android,0.20153445148043683
+customer service,app,0.3442499766994315
+customer service,bargain,0.29367665539410925
+customer service,battery,0.28241397041394917
+customer service,battery life,0.35949606385703514
+customer service,big,0.2645941766615379
+customer service,camera,0.2248819962939532
+customer service,camera quality,0.44700633804663714
+customer service,case,0.2745607023494355
+customer service,charger,0.20518649757191423
+customer service,curved screen,0.18988403053075326
+customer service,customer service,1.0
+customer service,design,0.36910551816709514
+customer service,device,0.3170568273903118
+customer service,dimension,0.16430279697996694
+customer service,display,0.29342276286458757
+customer service,expandable storage option,0.3558074942017547
+customer service,expensive,0.37417297280109446
+customer service,extra storage,0.42373383754051236
+customer service,fast,0.41845281651865435
+customer service,iphone,0.2406881890967147
+customer service,lightweight,0.12876844232051549
+customer service,memory,0.22530191361802993
+customer service,operation system,0.5015175361961118
+customer service,performance,0.40955877345715164
+customer service,phone,0.4987391623958494
+customer service,photo,0.1886394465117337
+customer service,picture,0.2229059646638352
+customer service,price,0.4422512577518928
+customer service,processor,0.24242833245609047
+customer service,removable battery,0.23715019495901188
+customer service,screen,0.25161410408615825
+customer service,screen clarity,0.31405396666936475
+customer service,size,0.2290003435690863
+customer service,smartphone,0.30696789287723925
+customer service,software,0.4630467449765884
+customer service,speed,0.3633538721880101
+customer service,storage,0.36689199917868054
+customer service,value,0.4573254051110027
+customer service,waterproof,0.0698586380512924
+design,android,0.19321422695809884
+design,app,0.2537628332130562
+design,bargain,0.10541733482129977
+design,battery,0.22870822935655458
+design,battery life,0.3321077461938686
+design,big,0.25938048182036466
+design,camera,0.27566342176219283
+design,camera quality,0.44352613711137323
+design,case,0.3079344819133646
+design,charger,0.20721849755421304
+design,curved screen,0.4126369389896223
+design,customer service,0.36910549467666415
+design,design,1.0
+design,device,0.29223181172326634
+design,dimension,0.31284379999031375
+design,display,0.3647238195968447
+design,expandable storage option,0.38652398172007213
+design,expensive,0.29379153283058557
+design,extra storage,0.36066551585054396
+design,fast,0.2725283588176291
+design,iphone,0.2549869634329078
+design,lightweight,0.41769239265514496
+design,memory,0.2063750152241387
+design,operation system,0.391554310383119
+design,performance,0.36928398097690857
+design,phone,0.18575409545269148
+design,photo,0.319271978819864
+design,picture,0.335084450536491
+design,price,0.22139271302497945
+design,processor,0.19936430568248426
+design,removable battery,0.30352629478760024
+design,screen,0.2888932169087245
+design,screen clarity,0.3377389008432288
+design,size,0.32819800235767094
+design,smartphone,0.22694421911114723
+design,software,0.41791219101975696
+design,speed,0.2938968022890452
+design,storage,0.3514510716136833
+design,value,0.2408746020426442
+design,waterproof,0.24785849148803696
+device,android,0.3857504031609177
+device,app,0.4633797196744288
+device,bargain,0.09049275042469745
+device,battery,0.4717701284028327
+device,battery life,0.4478451671959687
+device,big,0.16387449653983793
+device,camera,0.45725090429909504
+device,camera quality,0.4249014440154207
+device,case,0.35842509560907565
+device,charger,0.39739881103650354
+device,curved screen,0.484070941596777
+device,customer service,0.3170568273903118
+device,design,0.29223181172326634
+device,device,1.0
+device,dimension,0.3113576185067692
+device,display,0.49141634045956917
+device,expandable storage option,0.5488735615422166
+device,expensive,0.2783063332562417
+device,extra storage,0.4388755362417128
+device,fast,0.24103528870324295
+device,iphone,0.359375289290529
+device,lightweight,0.25965460101495447
+device,memory,0.49147474101036465
+device,operation system,0.6224262836093889
+device,performance,0.26874971721633745
+device,phone,0.44023616855845976
+device,photo,0.1828885268886135
+device,picture,0.25857937141690607
+device,price,0.1965522699280367
+device,processor,0.4818485414322154
+device,removable battery,0.545736471780451
+device,screen,0.48138391085511933
+device,screen clarity,0.4294783411674344
+device,size,0.30575112183104775
+device,smartphone,0.5067099902662296
+device,software,0.43045512948719594
+device,speed,0.35344653134888376
+device,storage,0.4599572933624558
+device,value,0.29272867508103145
+device,waterproof,0.27874979843355113
+dimension,android,0.13779772019897304
+dimension,app,0.09511314467039761
+dimension,bargain,0.09291590229914187
+dimension,battery,0.185044026428476
+dimension,battery life,0.29418122435463795
+dimension,big,0.21053362619214075
+dimension,camera,0.22217037066166911
+dimension,camera quality,0.2992748279283688
+dimension,case,0.24582519298904776
+dimension,charger,0.11150704151723739
+dimension,curved screen,0.4281924217417017
+dimension,customer service,0.16430279697996694
+dimension,design,0.31284379999031375
+dimension,device,0.3113576185067692
+dimension,dimension,1.0
+dimension,display,0.32335773948293844
+dimension,expandable storage option,0.3016231406106654
+dimension,expensive,0.11436878249122877
+dimension,extra storage,0.3444905899114027
+dimension,fast,0.12058723738160027
+dimension,iphone,0.1061364643092249
+dimension,lightweight,0.15542149714751585
+dimension,memory,0.3243410374059566
+dimension,operation system,0.28583934664304994
+dimension,performance,0.23279519970883428
+dimension,phone,0.11700115055733228
+dimension,photo,0.1415042671688752
+dimension,picture,0.31679772616004764
+dimension,price,0.16531687398609204
+dimension,processor,0.21433717302924507
+dimension,removable battery,0.23242274730893697
+dimension,screen,0.32768571572750815
+dimension,screen clarity,0.45265403423029044
+dimension,size,0.4885125372228641
+dimension,smartphone,0.15892902625128794
+dimension,software,0.17484358870029504
+dimension,speed,0.2742144004438812
+dimension,storage,0.27548244632781543
+dimension,value,0.415807410077989
+dimension,waterproof,0.1282995231493755
+display,android,0.29096920098724843
+display,app,0.3040416678140966
+display,bargain,0.17428194409693504
+display,battery,0.34552188855916804
+display,battery life,0.3534157894068523
+display,big,0.23215223568218057
+display,camera,0.4342267815056656
+display,camera quality,0.46265684783001376
+display,case,0.28516764772679476
+display,charger,0.2304533172728417
+display,curved screen,0.6013812341027439
+display,customer service,0.2934227386098373
+display,design,0.3647238195968447
+display,device,0.49141634045956917
+display,dimension,0.3233577147475882
+display,display,1.0
+display,expandable storage option,0.44508424173673317
+display,expensive,0.22181900976431668
+display,extra storage,0.37927385120452745
+display,fast,0.24511155135203172
+display,iphone,0.2521023654987708
+display,lightweight,0.19950059264940018
+display,memory,0.4423901008701367
+display,operation system,0.3880036668613924
+display,performance,0.34103693285920766
+display,phone,0.33010181236030883
+display,photo,0.38329928978665995
+display,picture,0.4709093152360699
+display,price,0.24597165899196835
+display,processor,0.3667565488815533
+display,removable battery,0.3928155817583818
+display,screen,0.6609991275765926
+display,screen clarity,0.5914059077180828
+display,size,0.37319598217164546
+display,smartphone,0.35804323845124164
+display,software,0.2784537359491168
+display,speed,0.2835334034120237
+display,storage,0.37155884621116964
+display,value,0.36917798171561744
+display,waterproof,0.18348266616673312
+expandable storage option,android,0.1976171636778234
+expandable storage option,app,0.28379653037560654
+expandable storage option,bargain,0.23564334314485633
+expandable storage option,battery,0.43101174172895573
+expandable storage option,battery life,0.4167453179684307
+expandable storage option,big,0.28854658546622836
+expandable storage option,camera,0.3618366226447994
+expandable storage option,camera quality,0.42296829848826967
+expandable storage option,case,0.42300506136331223
+expandable storage option,charger,0.34775035759920264
+expandable storage option,curved screen,0.4940313411936647
+expandable storage option,customer service,0.3558074942017547
+expandable storage option,design,0.38652398172007213
+expandable storage option,device,0.5488735615422166
+expandable storage option,dimension,0.3016231406106654
+expandable storage option,display,0.44508424173673317
+expandable storage option,expandable storage option,1.0
+expandable storage option,expensive,0.4091409108491123
+expandable storage option,extra storage,0.8268432949408664
+expandable storage option,fast,0.346622145699015
+expandable storage option,iphone,0.237327226904421
+expandable storage option,lightweight,0.43121042954138794
+expandable storage option,memory,0.48225272847421846
+expandable storage option,operation system,0.5636829978351066
+expandable storage option,performance,0.2937569294760426
+expandable storage option,phone,0.2939556253976739
+expandable storage option,photo,0.261923540497797
+expandable storage option,picture,0.29166839527419697
+expandable storage option,price,0.3104413679867059
+expandable storage option,processor,0.40634954514063776
+expandable storage option,removable battery,0.7335676520176544
+expandable storage option,screen,0.4375882262487499
+expandable storage option,screen clarity,0.3756340019610379
+expandable storage option,size,0.4958208545594956
+expandable storage option,smartphone,0.25477591518980586
+expandable storage option,software,0.34318263725602405
+expandable storage option,speed,0.36912709241368197
+expandable storage option,storage,0.8329837682811134
+expandable storage option,value,0.3532181740503788
+expandable storage option,waterproof,0.43446640162683137
+expensive,android,0.09901609413694529
+expensive,app,0.20826596221502205
+expensive,bargain,0.5257168041587051
+expensive,battery,0.317301462809354
+expensive,battery life,0.3736567086672576
+expensive,big,0.4015217863836464
+expensive,camera,0.34096144593441335
+expensive,camera quality,0.4861200123532596
+expensive,case,0.31260670336464974
+expensive,charger,0.25744653483096097
+expensive,curved screen,0.2392611117229595
+expensive,customer service,0.37417297280109446
+expensive,design,0.2937915103326231
+expensive,device,0.2783063332562417
+expensive,dimension,0.11436878249122877
+expensive,display,0.22181900976431668
+expensive,expandable storage option,0.4091409108491123
+expensive,expensive,1.0
+expensive,extra storage,0.49215506685028104
+expensive,fast,0.44124835078849095
+expensive,iphone,0.19096460740853105
+expensive,lightweight,0.3107665457532867
+expensive,memory,0.2326621482623142
+expensive,operation system,0.3237296420102599
+expensive,performance,0.30403426183805565
+expensive,phone,0.2897471886020721
+expensive,photo,0.19129454596440013
+expensive,picture,0.2209695671880967
+expensive,price,0.5110955379290307
+expensive,processor,0.2466940388859375
+expensive,removable battery,0.3110556155643135
+expensive,screen,0.2123480247519429
+expensive,screen clarity,0.22248691514386765
+expensive,size,0.2733853604762936
+expensive,smartphone,0.2658701072687559
+expensive,software,0.2613748745725983
+expensive,speed,0.28992343531865244
+expensive,storage,0.3467828820954402
+expensive,value,0.3583736220944868
+expensive,waterproof,0.23992328879701608
+extra storage,android,0.17397876193281867
+extra storage,app,0.2730520926493465
+extra storage,bargain,0.3165676360915454
+extra storage,battery,0.411374304011473
+extra storage,battery life,0.436491889403855
+extra storage,big,0.418425495335383
+extra storage,camera,0.3617012450231665
+extra storage,camera quality,0.4579601359373944
+extra storage,case,0.38319973284762143
+extra storage,charger,0.3055897072031421
+extra storage,curved screen,0.40057067373066163
+extra storage,customer service,0.42373386622657605
+extra storage,design,0.36066551585054396
+extra storage,device,0.43887558267187987
+extra storage,dimension,0.3444905899114027
+extra storage,display,0.37927398332944506
+extra storage,expandable storage option,0.8268433601876478
+extra storage,expensive,0.49215506685028104
+extra storage,extra storage,1.0
+extra storage,fast,0.40483034207593316
+extra storage,iphone,0.2293545175906185
+extra storage,lightweight,0.3528751688490757
+extra storage,memory,0.47580969213547214
+extra storage,operation system,0.4786997199921303
+extra storage,performance,0.3237837631978608
+extra storage,phone,0.33324378566601903
+extra storage,photo,0.2522321909335669
+extra storage,picture,0.2809228947249738
+extra storage,price,0.3729295486162598
+extra storage,processor,0.3851737814834912
+extra storage,removable battery,0.5725557165282243
+extra storage,screen,0.35854368126505554
+extra storage,screen clarity,0.3555246452359162
+extra storage,size,0.502560492244211
+extra storage,smartphone,0.24122394083881013
+extra storage,software,0.31123127887760127
+extra storage,speed,0.42316523130475747
+extra storage,storage,0.8724654271571818
+extra storage,value,0.4074505655719042
+extra storage,waterproof,0.35637262479467374
+fast,android,0.21847335584562566
+fast,app,0.24979590058893966
+fast,bargain,0.2866977944159555
+fast,battery,0.27397126982909104
+fast,battery life,0.3944427729771907
+fast,big,0.392292689918395
+fast,camera,0.3273611527531845
+fast,camera quality,0.43357793434617603
+fast,case,0.1997933613585947
+fast,charger,0.24840716139762395
+fast,curved screen,0.2961198017135331
+fast,customer service,0.41845279056589996
+fast,design,0.27252838197138235
+fast,device,0.24103528870324295
+fast,dimension,0.12058723738160027
+fast,display,0.24511155135203172
+fast,expandable storage option,0.34662211618409605
+fast,expensive,0.44124835078849095
+fast,extra storage,0.40483034207593316
+fast,fast,1.0
+fast,iphone,0.22435420299173436
+fast,lightweight,0.30588267637067
+fast,memory,0.29870304946839626
+fast,operation system,0.3846450922970914
+fast,performance,0.371425369044509
+fast,phone,0.26841551279443304
+fast,photo,0.19063714093354056
+fast,picture,0.28183198568937745
+fast,price,0.3494396107516588
+fast,processor,0.3010755044572016
+fast,removable battery,0.27045042080078197
+fast,screen,0.30592657000825096
+fast,screen clarity,0.30468097475360695
+fast,size,0.2558424440937521
+fast,smartphone,0.2274910273322458
+fast,software,0.34237044116430104
+fast,speed,0.656322985138538
+fast,storage,0.32004212392340387
+fast,value,0.2430947225395775
+fast,waterproof,0.18301206477793655
+iphone,android,0.7459706031235654
+iphone,app,0.5994630901065789
+iphone,bargain,0.14809317496404265
+iphone,battery,0.36590516794334416
+iphone,battery life,0.36432587154424567
+iphone,big,0.17879796867918676
+iphone,camera,0.4052707883552051
+iphone,camera quality,0.37654761888545246
+iphone,case,0.2803955383469841
+iphone,charger,0.4622991299401023
+iphone,curved screen,0.33397877613645754
+iphone,customer service,0.2406881890967147
+iphone,design,0.2549869634329078
+iphone,device,0.3593752552303591
+iphone,dimension,0.1061364643092249
+iphone,display,0.2521023654987708
+iphone,expandable storage option,0.237327226904421
+iphone,expensive,0.19096462756292412
+iphone,extra storage,0.229354540516996
+iphone,fast,0.22435422373360575
+iphone,iphone,1.0
+iphone,lightweight,0.11935296598913672
+iphone,memory,0.1984740999502073
+iphone,operation system,0.12611601805514983
+iphone,performance,0.05129297342217659
+iphone,phone,0.54166748937344
+iphone,photo,0.2484642647781432
+iphone,picture,0.22673000437939472
+iphone,price,0.22753510358742332
+iphone,processor,0.19259628968841486
+iphone,removable battery,0.31640090520995473
+iphone,screen,0.42758716672931035
+iphone,screen clarity,0.33638565839461987
+iphone,size,0.15735383186149626
+iphone,smartphone,0.5473618022718506
+iphone,software,0.39867349096693083
+iphone,speed,0.20840357421744402
+iphone,storage,0.2044771512857459
+iphone,value,0.1073709979730693
+iphone,waterproof,0.2415519307072383
+lightweight,android,0.14291188905970376
+lightweight,app,0.17190327715688783
+lightweight,bargain,0.1570692490415099
+lightweight,battery,0.3048445168522527
+lightweight,battery life,0.2791041459850336
+lightweight,big,0.1851572573925096
+lightweight,camera,0.27920461729615664
+lightweight,camera quality,0.34991139774540786
+lightweight,case,0.23265775995517615
+lightweight,charger,0.29255584060984496
+lightweight,curved screen,0.3449112896063087
+lightweight,customer service,0.12876844232051549
+lightweight,design,0.41769239265514496
+lightweight,device,0.2596546188761776
+lightweight,dimension,0.15542149714751585
+lightweight,display,0.19950059264940018
+lightweight,expandable storage option,0.43121042954138794
+lightweight,expensive,0.3107665457532867
+lightweight,extra storage,0.3528751688490757
+lightweight,fast,0.30588271987898996
+lightweight,iphone,0.11935297480868591
+lightweight,lightweight,1.0
+lightweight,memory,0.17740127819518345
+lightweight,operation system,0.2570147503595561
+lightweight,performance,0.3358748333925547
+lightweight,phone,0.12745565049184762
+lightweight,photo,0.1445267985745061
+lightweight,picture,0.10464456309131692
+lightweight,price,0.1186364338402465
+lightweight,processor,0.17047882344905135
+lightweight,removable battery,0.4625530152302552
+lightweight,screen,0.22509146060743773
+lightweight,screen clarity,0.2650773993807702
+lightweight,size,0.29469104536465146
+lightweight,smartphone,0.25105674517617826
+lightweight,software,0.17499829190290078
+lightweight,speed,0.2564259235284003
+lightweight,storage,0.27873833623257566
+lightweight,value,0.10054336734875459
+lightweight,waterproof,0.5535584102739025
+memory,android,0.2493419446002733
+memory,app,0.19800787013943424
+memory,bargain,0.1286814922242696
+memory,battery,0.37506587839690886
+memory,battery life,0.4726203907600689
+memory,big,0.2085928667477436
+memory,camera,0.38575472651212483
+memory,camera quality,0.3840940351251095
+memory,case,0.32107892107963215
+memory,charger,0.24533440809152465
+memory,curved screen,0.319994822917292
+memory,customer service,0.22530191361802993
+memory,design,0.2063750152241387
+memory,device,0.4914747772165818
+memory,dimension,0.3243410374059566
+memory,display,0.4423901008701367
+memory,expandable storage option,0.48225267759481655
+memory,expensive,0.2326621911108575
+memory,extra storage,0.47580969213547214
+memory,fast,0.2987030053708652
+memory,iphone,0.1984740999502073
+memory,lightweight,0.17740127819518345
+memory,memory,1.0
+memory,operation system,0.418514201311307
+memory,performance,0.39222681060822856
+memory,phone,0.2800326232055743
+memory,photo,0.23507046217709657
+memory,picture,0.3298466177451026
+memory,price,0.1886257994940355
+memory,processor,0.5299169042486531
+memory,removable battery,0.4436073224856461
+memory,screen,0.3927345071607014
+memory,screen clarity,0.41714225197381016
+memory,size,0.3091497324865757
+memory,smartphone,0.2471428220769401
+memory,software,0.28972275634689343
+memory,speed,0.36844749134997296
+memory,storage,0.4808822909671154
+memory,value,0.3103816317849071
+memory,waterproof,0.16980013443209568
+operation system,android,0.1414693412928033
+operation system,app,0.2767901718090394
+operation system,bargain,0.1274014317799614
+operation system,battery,0.40173610083221006
+operation system,battery life,0.45513680296077125
+operation system,big,0.2437826081557871
+operation system,camera,0.35766451946970773
+operation system,camera quality,0.42051065502427043
+operation system,case,0.40369196408603375
+operation system,charger,0.2642596083664645
+operation system,curved screen,0.34414695342015045
+operation system,customer service,0.5015175361961118
+operation system,design,0.391554310383119
+operation system,device,0.6224262836093889
+operation system,dimension,0.28583934664304994
+operation system,display,0.3880036668613924
+operation system,expandable storage option,0.5636829978351066
+operation system,expensive,0.3237296420102599
+operation system,extra storage,0.47869975087728234
+operation system,fast,0.3846450922970914
+operation system,iphone,0.12611602938349079
+operation system,lightweight,0.2570147503595561
+operation system,memory,0.418514201311307
+operation system,operation system,1.0
+operation system,performance,0.4251082251703271
+operation system,phone,0.2925655879692367
+operation system,photo,0.13769001754617427
+operation system,picture,0.2362745878261491
+operation system,price,0.24621506584067512
+operation system,processor,0.4493672742060178
+operation system,removable battery,0.4483713885602879
+operation system,screen,0.36683041433588437
+operation system,screen clarity,0.3807587354827411
+operation system,size,0.28641882563837695
+operation system,smartphone,0.22369712674696568
+operation system,software,0.48859945128683707
+operation system,speed,0.4444586239804828
+operation system,storage,0.49608499521696237
+operation system,value,0.3507323544110107
+operation system,waterproof,0.2028043912672063
+performance,android,0.09521252110615155
+performance,app,0.11097090289717547
+performance,bargain,0.12266971139445298
+performance,battery,0.3022327426547754
+performance,battery life,0.39797278780322953
+performance,big,0.2650898762556048
+performance,camera,0.27324834520348434
+performance,camera quality,0.46484808037239456
+performance,case,0.21354978917833936
+performance,charger,0.14716212822295713
+performance,curved screen,0.2370346157716595
+performance,customer service,0.40955879817640944
+performance,design,0.36928398097690857
+performance,device,0.26874971721633745
+performance,dimension,0.23279519970883428
+performance,display,0.34103695563005515
+performance,expandable storage option,0.2937569575881605
+performance,expensive,0.30403426183805565
+performance,extra storage,0.3237837631978608
+performance,fast,0.371425369044509
+performance,iphone,0.05129297342217659
+performance,lightweight,0.3358748541127712
+performance,memory,0.3922267686065888
+performance,operation system,0.4251082251703271
+performance,performance,1.0
+performance,phone,0.12489882276997052
+performance,photo,0.1527913798263371
+performance,picture,0.24607577381202597
+performance,price,0.28615756358051775
+performance,processor,0.314899906448784
+performance,removable battery,0.28542311500739176
+performance,screen,0.29696859325799135
+performance,screen clarity,0.4047862602110308
+performance,size,0.2568941138541311
+performance,smartphone,0.19148379940139676
+performance,software,0.30037199512105545
+performance,speed,0.4455667508265595
+performance,storage,0.28066442156443017
+performance,value,0.35746226776549567
+performance,waterproof,0.19012657068855554
+phone,android,0.472653137771544
+phone,app,0.4331646170057276
+phone,bargain,0.2040865446115387
+phone,battery,0.4358403058488569
+phone,battery life,0.4352424646531781
+phone,big,0.2532428118590783
+phone,camera,0.47475358946289486
+phone,camera quality,0.44242413040252077
+phone,case,0.36299732348514807
+phone,charger,0.4178474509537859
+phone,curved screen,0.3539514755563628
+phone,customer service,0.4987391623958494
+phone,design,0.18575409545269148
+phone,device,0.44023616855845976
+phone,dimension,0.11700115055733228
+phone,display,0.3301018526254367
+phone,expandable storage option,0.2939556005426916
+phone,expensive,0.2897471886020721
+phone,extra storage,0.33324378566601903
+phone,fast,0.26841551279443304
+phone,iphone,0.541667454439321
+phone,lightweight,0.12745565049184762
+phone,memory,0.2800326232055743
+phone,operation system,0.2925655879692367
+phone,performance,0.1248988125109072
+phone,phone,1.0
+phone,photo,0.2568810771155872
+phone,picture,0.2995210298320777
+phone,price,0.2924713698580438
+phone,processor,0.26827805163340196
+phone,removable battery,0.36422817329255475
+phone,screen,0.4615061685605899
+phone,screen clarity,0.3980618694655331
+phone,size,0.207976423031766
+phone,smartphone,0.6076245008079681
+phone,software,0.33880091616696983
+phone,speed,0.26335459785406967
+phone,storage,0.2630407321757086
+phone,value,0.17902456962671226
+phone,waterproof,0.2149034419591093
+photo,android,0.16871595706608816
+photo,app,0.24084063094383693
+photo,bargain,0.12622374337885572
+photo,battery,0.17274759607879747
+photo,battery life,0.23783903058916153
+photo,big,0.3269711626121575
+photo,camera,0.5354347976338354
+photo,camera quality,0.49405047339374847
+photo,case,0.20668340368588406
+photo,charger,0.16942627871455834
+photo,curved screen,0.274784275672854
+photo,customer service,0.1886394465117337
+photo,design,0.319271978819864
+photo,device,0.1828885268886135
+photo,dimension,0.1415042671688752
+photo,display,0.38329928978665995
+photo,expandable storage option,0.261923540497797
+photo,expensive,0.19129455754334931
+photo,extra storage,0.25223221727654427
+photo,fast,0.19063714093354056
+photo,iphone,0.2484642647781432
+photo,lightweight,0.1445267985745061
+photo,memory,0.23507046217709657
+photo,operation system,0.13769000452962907
+photo,performance,0.1527913798263371
+photo,phone,0.2568810771155872
+photo,photo,1.0
+photo,picture,0.8012320248798601
+photo,price,0.18248159663462166
+photo,processor,0.09200596106387075
+photo,removable battery,0.20031009098091104
+photo,screen,0.34603435369315616
+photo,screen clarity,0.299487466914726
+photo,size,0.3397320280328887
+photo,smartphone,0.17305860484911295
+photo,software,0.22972300827309827
+photo,speed,0.17279816317024863
+photo,storage,0.21362577463123045
+photo,value,0.09892162757648784
+photo,waterproof,0.12021894996689744
+picture,android,0.17755514466771088
+picture,app,0.2187874264877723
+picture,bargain,0.1655174814066411
+picture,battery,0.18699701613421307
+picture,battery life,0.3291274297865278
+picture,big,0.4769977922222003
+picture,camera,0.5453894628344783
+picture,camera quality,0.57013173686374
+picture,case,0.30648624237714206
+picture,charger,0.14974350072435497
+picture,curved screen,0.45394446664848104
+picture,customer service,0.2229059646638352
+picture,design,0.335084426359965
+picture,device,0.25857937141690607
+picture,dimension,0.3167977537961765
+picture,display,0.4709093152360699
+picture,expandable storage option,0.29166839527419697
+picture,expensive,0.2209695671880967
+picture,extra storage,0.2809228947249738
+picture,fast,0.28183198568937745
+picture,iphone,0.22673000437939472
+picture,lightweight,0.1046445744488711
+picture,memory,0.3298466177451026
+picture,operation system,0.23627461700275282
+picture,performance,0.24607577381202597
+picture,phone,0.2995210298320777
+picture,photo,0.8012320248798601
+picture,picture,1.0
+picture,price,0.2838048683501216
+picture,processor,0.16582185734305313
+picture,removable battery,0.22200212835965324
+picture,screen,0.522554219466809
+picture,screen clarity,0.5075869855024243
+picture,size,0.43767812858919936
+picture,smartphone,0.19178407921663912
+picture,software,0.24022277271689174
+picture,speed,0.2430064939707177
+picture,storage,0.2256172996766508
+picture,value,0.24445569699572184
+picture,waterproof,0.12637553925781117
+price,android,0.14773706238158732
+price,app,0.1696020586830563
+price,bargain,0.6137728780756148
+price,battery,0.3009535501813384
+price,battery life,0.3259928261848704
+price,big,0.27112833190970237
+price,camera,0.2599389901515724
+price,camera quality,0.4083403151019579
+price,case,0.3159116851225548
+price,charger,0.27089405410685696
+price,curved screen,0.19570939729213777
+price,customer service,0.4422512577518928
+price,design,0.22139271302497945
+price,device,0.19655225067625015
+price,dimension,0.16531687398609204
+price,display,0.24597165899196835
+price,expandable storage option,0.3104413409328057
+price,expensive,0.5110955379290307
+price,extra storage,0.3729295486162598
+price,fast,0.3494396107516588
+price,iphone,0.22753512259979194
+price,lightweight,0.11863642387012131
+price,memory,0.1886258197043266
+price,operation system,0.24621506584067512
+price,performance,0.28615756358051775
+price,phone,0.2924713698580438
+price,photo,0.1824815857117797
+price,picture,0.2838048683501216
+price,price,1.0
+price,processor,0.22077323444849986
+price,removable battery,0.24389012755464373
+price,screen,0.18768514322603183
+price,screen clarity,0.2418180305858467
+price,size,0.36295273276304424
+price,smartphone,0.2485689541938548
+price,software,0.27197779627102947
+price,speed,0.27805647695560287
+price,storage,0.27703616671811016
+price,value,0.5702880555460353
+price,waterproof,0.15825525298646387
+processor,android,0.31146920804556644
+processor,app,0.27036866581918106
+processor,bargain,0.1374795604126843
+processor,battery,0.33482659856011315
+processor,battery life,0.2859129245167209
+processor,big,0.1293144332290872
+processor,camera,0.3049375830110916
+processor,camera quality,0.2979614018613525
+processor,case,0.22375790441715798
+processor,charger,0.26298608982991734
+processor,curved screen,0.31346580355402753
+processor,customer service,0.2424283130652801
+processor,design,0.1993643575810265
+processor,device,0.4818485414322154
+processor,dimension,0.21433717302924507
+processor,display,0.3667565488815533
+processor,expandable storage option,0.40634954514063776
+processor,expensive,0.2466940388859375
+processor,extra storage,0.3851737814834912
+processor,fast,0.30107552357009226
+processor,iphone,0.19259628968841486
+processor,lightweight,0.17047882344905135
+processor,memory,0.5299169042486531
+processor,operation system,0.4493672742060178
+processor,performance,0.3148999428577497
+processor,phone,0.26827805163340196
+processor,photo,0.09200596106387075
+processor,picture,0.16582185734305313
+processor,price,0.22077323444849986
+processor,processor,1.0
+processor,removable battery,0.3636373292834848
+processor,screen,0.344560671316598
+processor,screen clarity,0.3273661027096613
+processor,size,0.2542214389165838
+processor,smartphone,0.3881183675673764
+processor,software,0.3840225276874092
+processor,speed,0.3808579722996434
+processor,storage,0.38188725661222916
+processor,value,0.2568659199803275
+processor,waterproof,0.11174719818493326
+removable battery,android,0.24772798338978058
+removable battery,app,0.20311887918601115
+removable battery,bargain,0.13094134060574888
+removable battery,battery,0.8545773862652898
+removable battery,battery life,0.7378680627253589
+removable battery,big,0.17738635696138755
+removable battery,camera,0.46566055484182234
+removable battery,camera quality,0.4768551571572949
+removable battery,case,0.3930990836714889
+removable battery,charger,0.7217078955175683
+removable battery,curved screen,0.4677912474961459
+removable battery,customer service,0.23715019495901188
+removable battery,design,0.3035263166234886
+removable battery,device,0.5457364321652186
+removable battery,dimension,0.23242272234838537
+removable battery,display,0.3928155817583818
+removable battery,expandable storage option,0.7335676520176544
+removable battery,expensive,0.3110556155643135
+removable battery,extra storage,0.5725557165282243
+removable battery,fast,0.27045042080078197
+removable battery,iphone,0.31640090520995473
+removable battery,lightweight,0.4625530152302552
+removable battery,memory,0.4436073224856461
+removable battery,operation system,0.4483713885602879
+removable battery,performance,0.28542311500739176
+removable battery,phone,0.36422817329255475
+removable battery,photo,0.20031009098091104
+removable battery,picture,0.22200212835965324
+removable battery,price,0.24389012755464373
+removable battery,processor,0.3636373292834848
+removable battery,removable battery,1.0
+removable battery,screen,0.42528758140731987
+removable battery,screen clarity,0.36463609499722444
+removable battery,size,0.3620283358342719
+removable battery,smartphone,0.3242326194015722
+removable battery,software,0.23536228065261816
+removable battery,speed,0.33277699834619257
+removable battery,storage,0.5313483660192216
+removable battery,value,0.208823149588001
+removable battery,waterproof,0.5222645057959149
+screen,android,0.4444396656921845
+screen,app,0.4171150292995433
+screen,bargain,0.08079153941816582
+screen,battery,0.3742768458955992
+screen,battery life,0.41814921689531853
+screen,big,0.2903460122728039
+screen,camera,0.5675233075701827
+screen,camera quality,0.5452840189007858
+screen,case,0.30011326964496543
+screen,charger,0.29795934868390916
+screen,curved screen,0.801982614418605
+screen,customer service,0.25161412778030173
+screen,design,0.2888932169087245
+screen,device,0.48138391085511933
+screen,dimension,0.32768571572750815
+screen,display,0.6609991275765926
+screen,expandable storage option,0.4375882531950506
+screen,expensive,0.2123480247519429
+screen,extra storage,0.35854368126505554
+screen,fast,0.30592657000825096
+screen,iphone,0.42758716672931035
+screen,lightweight,0.22509146060743773
+screen,memory,0.3927345071607014
+screen,operation system,0.36683041433588437
+screen,performance,0.2969686155025299
+screen,phone,0.4615061685605899
+screen,photo,0.3460343972107536
+screen,picture,0.522554219466809
+screen,price,0.18768514322603183
+screen,processor,0.344560671316598
+screen,removable battery,0.42528758140731987
+screen,screen,1.0
+screen,screen clarity,0.7871487073119346
+screen,size,0.3679070528361874
+screen,smartphone,0.45399915663890383
+screen,software,0.3503876533591537
+screen,speed,0.31293947554276985
+screen,storage,0.3010251273334328
+screen,value,0.2065170448700408
+screen,waterproof,0.2601426078829671
+screen clarity,android,0.31387809707141356
+screen clarity,app,0.3263354894933513
+screen clarity,bargain,0.1799551833260656
+screen clarity,battery,0.3330099226069931
+screen clarity,battery life,0.43195050656816436
+screen clarity,big,0.2597665555472291
+screen clarity,camera,0.5314076436182272
+screen clarity,camera quality,0.6182525826023486
+screen clarity,case,0.32812939632621724
+screen clarity,charger,0.22886167630447188
+screen clarity,curved screen,0.661881723815721
+screen clarity,customer service,0.31405396666936475
+screen clarity,design,0.3377389008432288
+screen clarity,device,0.4294783411674344
+screen clarity,dimension,0.45265403423029044
+screen clarity,display,0.5914059077180828
+screen clarity,expandable storage option,0.37563396904265234
+screen clarity,expensive,0.2224869428663804
+screen clarity,extra storage,0.3555246452359162
+screen clarity,fast,0.3046809462230135
+screen clarity,iphone,0.33638565839461987
+screen clarity,lightweight,0.2650773993807702
+screen clarity,memory,0.4171423011563789
+screen clarity,operation system,0.38075870431831205
+screen clarity,performance,0.4047862602110308
+screen clarity,phone,0.39806189349159926
+screen clarity,photo,0.2994875200770901
+screen clarity,picture,0.5075869855024243
+screen clarity,price,0.2418180305858467
+screen clarity,processor,0.3273661027096613
+screen clarity,removable battery,0.36463609499722444
+screen clarity,screen,0.7871487073119346
+screen clarity,screen clarity,1.0
+screen clarity,size,0.3658058060329697
+screen clarity,smartphone,0.37352526042418305
+screen clarity,software,0.3053490053636508
+screen clarity,speed,0.38156445065994643
+screen clarity,storage,0.26305989233578553
+screen clarity,value,0.3357059917882599
+screen clarity,waterproof,0.2553697896573232
+size,android,0.1489597846876782
+size,app,0.15318609025245195
+size,bargain,0.16566478897004075
+size,battery,0.2545110222634086
+size,battery life,0.2889814176827801
+size,big,0.44366750821201234
+size,camera,0.2884348902023771
+size,camera quality,0.3941979244254569
+size,case,0.30960693528704014
+size,charger,0.15570061586105502
+size,curved screen,0.40290126014697325
+size,customer service,0.22900039161428304
+size,design,0.32819800235767094
+size,device,0.30575112183104775
+size,dimension,0.4885125372228641
+size,display,0.37319598217164546
+size,expandable storage option,0.4958208545594956
+size,expensive,0.27338531446100195
+size,extra storage,0.5025605445883299
+size,fast,0.2558424440937521
+size,iphone,0.15735383186149626
+size,lightweight,0.29469104536465146
+size,memory,0.3091497324865757
+size,operation system,0.28641885150256
+size,performance,0.2568940687483339
+size,phone,0.207976423031766
+size,photo,0.3397320280328887
+size,picture,0.4376780791407261
+size,price,0.36295273276304424
+size,processor,0.2542214389165838
+size,removable battery,0.3620283358342719
+size,screen,0.3679070528361874
+size,screen clarity,0.3658058060329697
+size,size,1.0
+size,smartphone,0.18602872234225162
+size,software,0.21621697153010033
+size,speed,0.3793469648565296
+size,storage,0.4423013524329326
+size,value,0.38639605565025736
+size,waterproof,0.25332584333205954
+smartphone,android,0.6411365608471417
+smartphone,app,0.6140387713895188
+smartphone,bargain,0.1776435571273804
+smartphone,battery,0.3677071227156085
+smartphone,battery life,0.3528337347520236
+smartphone,big,0.20323505514910647
+smartphone,camera,0.42767724256743567
+smartphone,camera quality,0.3629856944148752
+smartphone,case,0.2503218215918637
+smartphone,charger,0.3520793543868725
+smartphone,curved screen,0.38345969978855654
+smartphone,customer service,0.30696791427028347
+smartphone,design,0.22694421911114723
+smartphone,device,0.5067099902662296
+smartphone,dimension,0.1589290153428177
+smartphone,display,0.35804323845124164
+smartphone,expandable storage option,0.25477591518980586
+smartphone,expensive,0.2658701072687559
+smartphone,extra storage,0.24122394083881013
+smartphone,fast,0.2274910273322458
+smartphone,iphone,0.5473618022718506
+smartphone,lightweight,0.25105674517617826
+smartphone,memory,0.2471428039019823
+smartphone,operation system,0.2236971037139197
+smartphone,performance,0.19148379940139676
+smartphone,phone,0.6076245008079681
+smartphone,photo,0.17305860484911295
+smartphone,picture,0.19178407921663912
+smartphone,price,0.2485689541938548
+smartphone,processor,0.388118399077166
+smartphone,removable battery,0.3242326194015722
+smartphone,screen,0.4539991951415482
+smartphone,screen clarity,0.37352526042418305
+smartphone,size,0.18602872234225162
+smartphone,smartphone,1.0
+smartphone,software,0.39275372018394566
+smartphone,speed,0.2171073979055217
+smartphone,storage,0.21924351387464017
+smartphone,value,0.1630266750734657
+smartphone,waterproof,0.2671807516601725
+software,android,0.4271792047841514
+software,app,0.49313591521254646
+software,bargain,0.14181865663673793
+software,battery,0.23664094815703426
+software,battery life,0.25846502267256344
+software,big,0.23022994991874024
+software,camera,0.33936253499251906
+software,camera quality,0.39866011920236155
+software,case,0.23860124384272496
+software,charger,0.2087559856657393
+software,curved screen,0.2528073508505927
+software,customer service,0.4630467449765884
+software,design,0.41791219101975696
+software,device,0.4304551992106201
+software,dimension,0.17484357771755546
+software,display,0.2784537359491168
+software,expandable storage option,0.34318261276101736
+software,expensive,0.2613748745725983
+software,extra storage,0.31123127887760127
+software,fast,0.34237046239429353
+software,iphone,0.39867349096693083
+software,lightweight,0.17499829190290078
+software,memory,0.28972275634689343
+software,operation system,0.48859945128683707
+software,performance,0.30037199512105545
+software,phone,0.33880091616696983
+software,photo,0.22972300827309827
+software,picture,0.24022277271689174
+software,price,0.27197779627102947
+software,processor,0.3840225276874092
+software,removable battery,0.23536228065261816
+software,screen,0.35038761459436746
+software,screen clarity,0.3053490053636508
+software,size,0.21621697153010033
+software,smartphone,0.39275375518402006
+software,software,1.0
+software,speed,0.3247389601376551
+software,storage,0.3330997824647894
+software,value,0.25303438281171264
+software,waterproof,0.08334062920527976
+speed,android,0.2096621237280003
+speed,app,0.19128174889426927
+speed,bargain,0.1368515865923437
+speed,battery,0.33837221980933485
+speed,battery life,0.38942733993512024
+speed,big,0.26687861654886047
+speed,camera,0.36152864303820537
+speed,camera quality,0.43391545690949973
+speed,case,0.18104770417092575
+speed,charger,0.2862702605241529
+speed,curved screen,0.3181880023270209
+speed,customer service,0.3633538721880101
+speed,design,0.2938968232221268
+speed,device,0.35344653134888376
+speed,dimension,0.2742144243724365
+speed,display,0.2835334034120237
+speed,expandable storage option,0.36912709241368197
+speed,expensive,0.28992345779094725
+speed,extra storage,0.42316523130475747
+speed,fast,0.656322985138538
+speed,iphone,0.20840355546492123
+speed,lightweight,0.2564259235284003
+speed,memory,0.36844749134997296
+speed,operation system,0.4444586239804828
+speed,performance,0.4455667948828172
+speed,phone,0.26335459785406967
+speed,photo,0.17279816317024863
+speed,picture,0.24300646982177437
+speed,price,0.27805647695560287
+speed,processor,0.3808579722996434
+speed,removable battery,0.33277695472424035
+speed,screen,0.31293947554276985
+speed,screen clarity,0.38156445065994643
+speed,size,0.3793469648565296
+speed,smartphone,0.2171073979055217
+speed,software,0.3247389601376551
+speed,speed,1.0
+speed,storage,0.3451751940274431
+speed,value,0.2747134792867076
+speed,waterproof,0.15758443986874893
+storage,android,0.1603058749309196
+storage,app,0.22119882001973107
+storage,bargain,0.20569223366857334
+storage,battery,0.3565805890793411
+storage,battery life,0.35857301945544
+storage,big,0.27711974860310373
+storage,camera,0.29151654853684106
+storage,camera quality,0.36741039498663663
+storage,case,0.3306295087565245
+storage,charger,0.2496733157046163
+storage,curved screen,0.33870763993820574
+storage,customer service,0.36689199917868054
+storage,design,0.3514511101387485
+storage,device,0.4599572933624558
+storage,dimension,0.27548244632781543
+storage,display,0.37155884621116964
+storage,expandable storage option,0.8329836700625513
+storage,expensive,0.3467828820954402
+storage,extra storage,0.8724654271571818
+storage,fast,0.32004210264172633
+storage,iphone,0.2044771685417376
+storage,lightweight,0.27873835433073063
+storage,memory,0.4808822909671154
+storage,operation system,0.49608499521696237
+storage,performance,0.28066442156443017
+storage,phone,0.2630407321757086
+storage,photo,0.21362577463123045
+storage,picture,0.22561732189840572
+storage,price,0.27703616671811016
+storage,processor,0.38188725661222916
+storage,removable battery,0.5313483660192216
+storage,screen,0.3010251273334328
+storage,screen clarity,0.26305989233578553
+storage,size,0.4423013524329326
+storage,smartphone,0.21924351387464017
+storage,software,0.3330997824647894
+storage,speed,0.3451751940274431
+storage,storage,1.0
+storage,value,0.3226809912210295
+storage,waterproof,0.2965512775502709
+value,android,0.07897580308636108
+value,app,0.1658526448369284
+value,bargain,0.3962735809409983
+value,battery,0.2586705580702339
+value,battery life,0.347952948682116
+value,big,0.2595048496291425
+value,camera,0.1884072233081994
+value,camera quality,0.376846988342089
+value,case,0.3573349232849633
+value,charger,0.15486741894832143
+value,curved screen,0.17166764475587815
+value,customer service,0.45732535590313705
+value,design,0.2408746020426442
+value,device,0.29272867508103145
+value,dimension,0.4158074351694408
+value,display,0.36917798171561744
+value,expandable storage option,0.3532181740503788
+value,expensive,0.3583736220944868
+value,extra storage,0.407450592377314
+value,fast,0.2430947225395775
+value,iphone,0.1073709979730693
+value,lightweight,0.1005433879723032
+value,memory,0.3103816317849071
+value,operation system,0.3507323544110107
+value,performance,0.35746226776549567
+value,phone,0.17902459004911386
+value,photo,0.09892163887362596
+value,picture,0.24445567167317145
+value,price,0.5702880555460353
+value,processor,0.2568659199803275
+value,removable battery,0.20882317245896204
+value,screen,0.2065170448700408
+value,screen clarity,0.3357059917882599
+value,size,0.38639605565025736
+value,smartphone,0.1630266750734657
+value,software,0.2530344029383359
+value,speed,0.2747134792867076
+value,storage,0.3226809912210295
+value,value,1.0
+value,waterproof,0.09760590828907095
+waterproof,android,0.1944116721584472
+waterproof,app,0.1285941384127847
+waterproof,bargain,0.15675316150271582
+waterproof,battery,0.36811770418108364
+waterproof,battery life,0.3370573576802774
+waterproof,big,0.1403593922827295
+waterproof,camera,0.39653997645914496
+waterproof,camera quality,0.43423458179200874
+waterproof,case,0.2529308711351619
+waterproof,charger,0.3556289418324637
+waterproof,curved screen,0.32259387926899746
+waterproof,customer service,0.069858627904034
+waterproof,design,0.2478584733822811
+waterproof,device,0.27874979843355113
+waterproof,dimension,0.12829953349769857
+waterproof,display,0.18348266616673312
+waterproof,expandable storage option,0.43446640162683137
+waterproof,expensive,0.23992328879701608
+waterproof,extra storage,0.35637262479467374
+waterproof,fast,0.18301206477793655
+waterproof,iphone,0.24155191448752414
+waterproof,lightweight,0.5535584102739025
+waterproof,memory,0.16980011719041735
+waterproof,operation system,0.2028043912672063
+waterproof,performance,0.19012657068855554
+waterproof,phone,0.2149034419591093
+waterproof,photo,0.12021894996689744
+waterproof,picture,0.12637553925781117
+waterproof,price,0.15825525298646387
+waterproof,processor,0.11174719818493326
+waterproof,removable battery,0.5222645057959149
+waterproof,screen,0.2601426078829671
+waterproof,screen clarity,0.2553697896573232
+waterproof,size,0.2533258618479949
+waterproof,smartphone,0.2671807516601725
+waterproof,software,0.08334061260386505
+waterproof,speed,0.15758443986874893
+waterproof,storage,0.2965512775502709
+waterproof,value,0.09760588932505954
+waterproof,waterproof,1.0
